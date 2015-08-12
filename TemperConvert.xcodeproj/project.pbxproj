@@ -418,6 +418,7 @@
 				2C1EA9E91B75E50000A1685D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2C1EA9EA1B75E50000A1685D /* Build configuration list for PBXNativeTarget "TemperConvertTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +427,7 @@
 				2C1EA9EC1B75E50000A1685D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
